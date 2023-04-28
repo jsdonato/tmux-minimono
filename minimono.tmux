@@ -17,4 +17,4 @@ tmux set-window-option -g window-status-current-format '#[bg=brightblack,fg=brig
 tmux set -g window-style 'bg=default,fg=white'
 tmux set -g window-active-style 'bg=default,fg=brightwhite'
 tmux set -g pane-border-style 'bg=default,fg=black'
-tmux set -g pane-active-border-style 'bg=default,fg=white'
+tmux set -g pane-active-border-style 'bg=default,fg=black'
