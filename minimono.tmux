@@ -5,7 +5,7 @@ tmux set-option -g status-position top
 tmux set -g status-bg black
 tmux set -g status-fg white
 tmux set -g status-left ''
-tmux set -g status-right ' [ #S ] '
+tmux set -g status-right ' [#S] '
 
 # Use normal and bright monochrome colors to show a tab line on the left.
 tmux set -g status-justify left
